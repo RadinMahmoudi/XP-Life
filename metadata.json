@@ -1,0 +1,6 @@
+{
+  "name": "XP Life",
+  "description": "Gamified life tracker to earn XP, level up skills, complete real-life missions, and unlock achievements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
